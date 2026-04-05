@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ファスナー",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-04-05T03:08:28.705173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファスナー",
+      "artist": "Shikao Suga feat. 櫻井和寿",
+      "has_synced": true,
+      "path": "select/01_ファスナー_Shikao_Suga_feat._櫻井和寿.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ファスナー",
+      "artist": "Shikao Suga, 櫻井和寿",
+      "has_synced": true,
+      "path": "select/02_ファスナー_Shikao_Suga,_櫻井和寿.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ファスナー",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/03_ファスナー_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファスナー",
+      "artist": "Mr. Children",
+      "has_synced": false,
+      "path": "select/04_ファスナー_Mr._Children.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファスナー",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_ファスナー_Mr.Children.txt"
+    }
+  ]
+}
